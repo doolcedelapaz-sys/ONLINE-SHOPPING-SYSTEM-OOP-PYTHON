@@ -50,3 +50,7 @@ Object-Oriented Programming (OOP) implementation of an online shopping system in
 - Class Hierarchies
 - Method Overriding
 - Getters and Setters
+
+## Author
+Dulce De La Paz Ortiz
+Paris, France
